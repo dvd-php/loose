@@ -1,0 +1,12 @@
+{
+    "name": "shizhan/loose",
+    "authors": [
+        {
+            "name": "tigerb",
+            "email": "624661874@qq.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.1"
+    }
+}
